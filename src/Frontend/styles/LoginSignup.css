@@ -1,0 +1,43 @@
+.add-form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px; /* Reduced gap for better spacing */
+  width: 400px; /* Adjusted width for better layout */
+  margin: 50px auto; /* Increased margin for better centering */
+  padding: 20px; /* Added padding for inner spacing */
+  border: 1px solid #ccc; /* Added border for better visibility */
+  border-radius: 10px; /* Added border radius for rounded corners */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Added box shadow for a subtle effect */
+}
+
+.add-form h1 {
+  text-align: center; /* Centered the heading */
+}
+
+.add-form form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.add-form .MuiTextField-root {
+  width: 100%; /* Full width for input fields */
+}
+
+.add-form button {
+  align-self: center; /* Center the button */
+}
+
+.add-form h4 {
+  text-align: center; /* Centered the text */
+}
+
+.add-form h4 a {
+  color: blue; /* Added color to link */
+  text-decoration: none; /* Removed underline */
+  font-weight: bold; /* Made the link bold */
+}
+
+.add-form h4 a:hover {
+  text-decoration: underline; /* Underline on hover */
+}

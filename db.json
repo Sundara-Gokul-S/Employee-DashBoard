@@ -1,0 +1,36 @@
+{
+  "employees": [
+    {
+      "id": "EMP01",
+      "name": "Sundara Gokul",
+      "email": "s.sundaragokul@gmail.com",
+      "phone": "08056474716",
+      "department": "IT",
+      "active": true
+    },
+    {
+      "id": "EMP02",
+      "name": "prasanna",
+      "email": "prasanna@gmail.com",
+      "phone": "123456789",
+      "department": "IT",
+      "active": true
+    },
+    {
+      "id": "EMP03",
+      "name": "Ajay",
+      "email": "ajay@gmail.com",
+      "phone": "123456798",
+      "department": "IT",
+      "active": true
+    },
+    {
+      "id": "EMP04",
+      "name": "barath",
+      "email": "barath@gmail.com",
+      "phone": "123456987",
+      "department": "IT",
+      "active": true
+    }
+  ]
+}

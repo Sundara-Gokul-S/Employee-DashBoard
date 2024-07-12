@@ -1,0 +1,25 @@
+nav {
+    /* Your styles here */
+  }
+  
+  ul {
+    list-style-type: none;
+  }
+  
+  li a {
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo {
+    font-size: 24px;
+  }
+  
+  .nav-item {
+    margin-left: 10px;
+  }
+  
+  .logout {
+    margin-top: auto;
+  }
